@@ -1,0 +1,10 @@
+# ninja log v5
+0	173	1645641965	CMakeFiles/opencv-static-libs.dir/static-libs.cpp.o	1b9b96e6fd79ea0c
+173	189	1645641965	/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/debug/obj/x86_64/libopencv-static-libs.so	42c4745a3bce43ba
+0	15	1645642892	build.ninja	4c5bb598667627bc
+0	2	0	clean	21f610707593395f
+0	38	1645643611	build.ninja	4c5bb598667627bc
+0	2	0	clean	21f610707593395f
+0	31	1645643627	build.ninja	4c5bb598667627bc
+0	600	1645643628	CMakeFiles/opencv-static-libs.dir/static-libs.cpp.o	1b9b96e6fd79ea0c
+600	618	1645643628	/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/debug/obj/x86_64/libopencv-static-libs.so	72633580c2d7d502

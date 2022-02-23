@@ -8,7 +8,7 @@ group 'com.github.urbanft'
 android {
     compileSdkVersion 30
     buildToolsVersion "29.0.3"
-
+    ndkVersion '18.1.5063045'
 
     defaultConfig {
         minSdkVersion 21
@@ -18,6 +18,12 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles 'consumer-rules.pro'
+
+        externalNativeBuild {
+            cmake {
+                arguments '-DANDROID_STL=c++_static'
+            }
+        }
     }
 
     buildTypes {
@@ -27,6 +33,12 @@ android {
         }
     }
 
+    externalNativeBuild {
+        cmake {
+            version '3.10.2'
+            path 'src/main/cpp/CMakeLists.txt'
+        }
+    }
 }
 
 dependencies {

@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/sysroot -Dopencv_static_libs_EXPORTS -I/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/../../../../distribution/include -isystem /home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/sources/cxx-stl/llvm-libc++/include -isystem /home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/sources/cxx-stl/llvm-libc++abi/include -isystem /home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/build/cmake/platforms.cmake",
+    "/home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/build/cmake/android.toolchain.cmake",
+    "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv-static-libs-Debug-arm64-v8a": {
+      "buildCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/arm64-v8a\" opencv-static-libs",
+      "buildType": "debug",
+      "toolchain": "1880273950",
+      "abi": "arm64-v8a",
+      "artifactName": "opencv-static-libs",
+      "files": [
+        {
+          "src": "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/static-libs.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/debug/obj/arm64-v8a/libopencv-static-libs.so"
+    }
+  },
+  "toolchains": {
+    "1880273950": {
+      "cppCompilerExecutable": "/home/kiwitech/development/opencv/android-ndk-r18b-linux-x86_64/android-ndk-r18b/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+ninja: Entering directory `/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86_64'
+[0/1] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86_64
+[1/2] Building CXX object CMakeFiles/opencv-static-libs.dir/static-libs.cpp.o
+[2/2] Linking CXX shared library /home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/debug/obj/x86_64/libopencv-static-libs.so
