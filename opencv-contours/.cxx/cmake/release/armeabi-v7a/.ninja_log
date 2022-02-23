@@ -1,0 +1,4 @@
+# ninja log v5
+0	717	1645647642	CMakeFiles/opencv-static-libs.dir/static-libs.cpp.o	591ae879af672615
+718	733	1645647642	/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/release/obj/armeabi-v7a/libopencv-static-libs.so	853122f2f9a4ebca
+0	4	0	clean	21f610707593395f

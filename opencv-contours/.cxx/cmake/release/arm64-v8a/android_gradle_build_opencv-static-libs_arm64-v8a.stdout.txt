@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/opencv-static-libs.dir/static-libs.cpp.o
+[2/2] Linking CXX shared library /home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/release/obj/arm64-v8a/libopencv-static-libs.so

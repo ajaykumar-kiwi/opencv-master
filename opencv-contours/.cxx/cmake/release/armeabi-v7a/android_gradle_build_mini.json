@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/platforms.cmake",
+    "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/CMakeLists.txt",
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv-static-libs-Release-armeabi-v7a": {
+      "artifactName": "opencv-static-libs",
+      "buildCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a\" opencv-static-libs",
+      "abi": "armeabi-v7a",
+      "output": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/release/obj/armeabi-v7a/libopencv-static-libs.so"
+    }
+  }
+}

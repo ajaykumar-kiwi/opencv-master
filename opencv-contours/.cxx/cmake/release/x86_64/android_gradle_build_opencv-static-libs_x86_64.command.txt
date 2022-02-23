@@ -1,0 +1,7 @@
+Executable : /home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/x86_64
+opencv-static-libs
+jvmArgs : 
+

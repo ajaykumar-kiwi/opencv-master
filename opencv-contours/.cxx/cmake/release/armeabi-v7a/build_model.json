@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/kiwitech/development/android/opencv-contours",
+      "sdkFolder": "/home/kiwitech/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates",
+      "gradleModulePathName": ":opencv-contours",
+      "moduleRootFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours",
+      "makeFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/kiwitech/development/android/opencv-contours/.cxx",
+      "cxxFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx",
+      "ndkFolder": "/home/kiwitech/Android/Sdk/ndk/22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_static"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/release/lib",
+    "objFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a",
+  "jsonFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a",
+  "objFolder": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/release/obj/armeabi-v7a",
+  "buildCommandFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cxx/release/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/release/armeabi-v7a/compile_commands.json"
+}
