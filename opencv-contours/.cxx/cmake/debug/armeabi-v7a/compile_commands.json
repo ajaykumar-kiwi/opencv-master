@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/kiwitech/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/kiwitech/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dopencv_static_libs_EXPORTS -I/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/../../../../distribution/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/opencv-static-libs.dir/static-libs.cpp.o -c /home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/static-libs.cpp",
+  "file": "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/static-libs.cpp"
+}
+]

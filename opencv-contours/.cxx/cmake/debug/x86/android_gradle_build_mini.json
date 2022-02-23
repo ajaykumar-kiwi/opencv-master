@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/platforms.cmake",
+    "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/CMakeLists.txt",
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv-static-libs-Debug-x86": {
+      "artifactName": "opencv-static-libs",
+      "buildCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86\" opencv-static-libs",
+      "abi": "x86",
+      "output": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/debug/obj/x86/libopencv-static-libs.so"
+    }
+  }
+}

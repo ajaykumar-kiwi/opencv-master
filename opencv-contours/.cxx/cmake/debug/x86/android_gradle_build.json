@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/home/kiwitech/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/kiwitech/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dopencv_static_libs_EXPORTS -I/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/../../../../distribution/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/platforms.cmake",
+    "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/CMakeLists.txt",
+    "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv-static-libs-Debug-x86": {
+      "buildCommand": "/home/kiwitech/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86\" opencv-static-libs",
+      "buildType": "debug",
+      "toolchain": "441840909",
+      "abi": "x86",
+      "artifactName": "opencv-static-libs",
+      "files": [
+        {
+          "src": "/home/kiwitech/development/android/opencv-contours/opencv-contours/src/main/cpp/static-libs.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/kiwitech/development/android/opencv-contours/opencv-contours/build/intermediates/cmake/debug/obj/x86/libopencv-static-libs.so"
+    }
+  },
+  "toolchains": {
+    "441840909": {
+      "cppCompilerExecutable": "/home/kiwitech/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

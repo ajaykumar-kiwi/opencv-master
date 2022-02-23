@@ -1,0 +1,3 @@
+/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/kiwitech/development/android/opencv-contours/opencv-contours/.cxx/cmake/debug/x86/CMakeFiles/opencv-static-libs.dir
